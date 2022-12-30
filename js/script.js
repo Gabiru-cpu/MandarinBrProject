@@ -1,0 +1,1 @@
+function showMensagem() { window.alert ('Olá você não receberá mais nossos e-mails.'); }
